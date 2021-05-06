@@ -6,15 +6,26 @@ namespace Pilka
     {
         static void Main(string[] args)
         {
-           
-            Zawodnik gracz1 = new Zawodnik("Jerzy", "Dudek", 34, "Polska", false, 0, 2, 1, 1);
+
+       /*     Zawodnik gracz1 = new Zawodnik("Jerzy", "Dudek", 34, "Polska", false, 0, 2, 1, 1);
             gracz1.pokazZawodnika();
             Sedzia sedzia1 = new Sedzia("Howard", "Webb", 69, "UK", 1, 16, 7, 4);
             sedzia1.pokazSedziego();
             Zawodnik gracz2 = new Zawodnik("Adam", "Małysz", 49, "Polska", false, 1, 3, 4, 2);
             gracz2.pokazZawodnika();
             Zawodnik gracz3 = new Zawodnik("Jezus", "Chytrus", 69, "Polska", false, 1, 3, 4, 2);
-            gracz3.pokazZawodnika();
+            gracz3.pokazZawodnika();*/
+
+            Grupa grupa_smierci = new Grupa();
+            grupa_smierci.Pierwsze_Miejsce = "Niemcy";
+            grupa_smierci.Drugie_Miejsce = "Polska";
+            grupa_smierci.Oznaczenie = 'D';
+
+            Mecz oWszystko = new Mecz();
+
+            Console.WriteLine($"Pierwsze miejsce dla: {grupa_smierci.Pierwsze_Miejsce}");
+            Console.WriteLine($"Drugie miejsec dla: {grupa_smierci.Drugie_Miejsce}");
+            Console.WriteLine($"Oznaczenie grupy to: {grupa_smierci.Oznaczenie}");
 
         }
     }
@@ -22,10 +33,10 @@ namespace Pilka
     public class Person
     {
 
-        protected string imie;
-        protected string nazwisko;
-        protected byte wiek;
-        protected string kraj;
+        private string imie;
+        private string nazwisko;
+        private byte wiek;
+        private string kraj;
 
 
         public Person()
