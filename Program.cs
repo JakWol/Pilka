@@ -22,7 +22,14 @@ namespace Pilka
             grupa_smierci.Oznaczenie = 'D';
 
             Mecz oWszystko = new Mecz();
+            oWszystko.Dzien = 24;
+            oWszystko.Miesiac = 05;
+            oWszystko.Rok = 2017;
+            oWszystko.Godzina = 21;
+            oWszystko.Minuty = 37;
 
+            Console.WriteLine($"Wielki mecz rozegrał się dnia {oWszystko.Dzien} miesiąca {oWszystko.Miesiac}, w roku pańskim {oWszystko.Rok}, o godzinie {oWszystko.Godzina}:{oWszystko.Minuty}");
+            Console.WriteLine();
             Console.WriteLine($"Pierwsze miejsce dla: {grupa_smierci.Pierwsze_Miejsce}");
             Console.WriteLine($"Drugie miejsec dla: {grupa_smierci.Drugie_Miejsce}");
             Console.WriteLine($"Oznaczenie grupy to: {grupa_smierci.Oznaczenie}");

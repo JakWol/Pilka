@@ -20,6 +20,23 @@ namespace Pilka
 
         private int minuty = data.Minute;
 
+        private string miejsce;
+
+        private string druzyna_A;
+
+        private string druzyna_B;
+
+        private short gole_A;
+
+        private short gole_B;
+
+        private int posiadanie_A;
+
+        private int posiadanie_B;
+
+        private string sedzia;
+
+
         public int Rok
         {
             get { return rok; }
