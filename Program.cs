@@ -11,6 +11,8 @@ namespace Pilka
             gracz1.pokazZawodnika();
             Sedzia sedzia1 = new Sedzia("Howard", "Webb", 69, "UK", 1, 16, 7, 4);
             sedzia1.pokazSedziego();
+            Zawodnik gracz2 = new Zawodnik("Adam", "Małysz", 49, "Polska", false, 1, 3, 4, 2);
+            gracz2.pokazZawodnika();
 
         }
     }
