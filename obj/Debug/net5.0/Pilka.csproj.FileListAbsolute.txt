@@ -1,0 +1,16 @@
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.exe
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.deps.json
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.runtimeconfig.json
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.runtimeconfig.dev.json
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.dll
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\ref\Pilka.dll
+C:\Users\jakub\source\repos\Pilka\bin\Debug\net5.0\Pilka.pdb
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.csprojAssemblyReference.cache
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.AssemblyInfo.cs
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.dll
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\ref\Pilka.dll
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.pdb
+C:\Users\jakub\source\repos\Pilka\obj\Debug\net5.0\Pilka.genruntimeconfig.cache
