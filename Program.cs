@@ -13,6 +13,8 @@ namespace Pilka
             sedzia1.pokazSedziego();
             Zawodnik gracz2 = new Zawodnik("Adam", "Małysz", 49, "Polska", false, 1, 3, 4, 2);
             gracz2.pokazZawodnika();
+            Zawodnik gracz3 = new Zawodnik("Jezus", "Chytrus", 69, "Polska", false, 1, 3, 4, 2);
+            gracz3.pokazZawodnika();
 
         }
     }
