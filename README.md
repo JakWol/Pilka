@@ -1,2 +1,2 @@
 # Pilka
-this is an app that was made in college during coding exercises
+Jest to kod który pisałem na zaliczenie w 3 semestrze studiów
